@@ -1,0 +1,36 @@
+---
+title: 'Developing Data Products: Shiny Application and Reproducible Pitch'
+author: "TYC"
+date: "2/10/2022"
+output: slidy_presentation
+---
+
+## CO2: Carbon Dioxide Uptake in Grass Plants
+
+To predict the carbon dioxide uptake rates of the grass species Echinochloa crus-galli.
+
+## Application Overview
+
+- The CO2 uptake in grass plants can be analysed using the following parameters:
+- Ambient carbon dioxide concentrations (mL/L)
+- Origin of the plant (uebec/ Mississippi)
+- Treatment (nonchilled/ chilled)
+
+
+## Data
+
+```{r}
+library(MASS)
+data("CO2")
+head(CO2)
+```
+
+## Slide with Complete Reporting Appliaction
+
+The Application:
+
+
+
+Click the link below for compiled project files on gitub repo.
+
+
