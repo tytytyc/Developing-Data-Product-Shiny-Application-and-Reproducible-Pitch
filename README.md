@@ -7,3 +7,5 @@ The Application:
 https://2hu5qc-tszyu-chow.shinyapps.io/app1/
 
 Reproducible Pitch Presentation:
+
+https://rpubs.com/TYC/864337
